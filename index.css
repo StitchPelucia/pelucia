@@ -609,12 +609,12 @@
     margin-bottom: -93px;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 652px;
+  min-height: 592px;
 }
 
 .u-section-4 .u-layout-wrap-1 {
   margin-top: 60px;
-  margin-bottom: 0;
+  margin-bottom: 40px;
 }
 
 .u-section-4 .u-layout-cell-1 {
@@ -640,7 +640,7 @@
 }
 
 .u-section-4 .u-image-2 {
-  min-height: 518px;
+  min-height: 522px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-image: url("images/WhatsAppImage2025-01-17at11.01.32.jpeg");
@@ -649,29 +649,29 @@
 }
 
 .u-section-4 .u-container-layout-2 {
-  padding: 30px;
+  padding: 14px;
+}
+
+.u-section-4 .u-btn-1 {
+  margin: 422px auto 0;
+  padding: 10px 128px 10px 127px;
 }
 
 .u-section-4 .u-image-3 {
   min-height: 522px;
   background-position: 50% 50%;
-  background-repeat: no-repeat, no-repeat;
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('images/SemTtulo-1.png');
-  background-size: cover, cover;
+  background-repeat: no-repeat;
+  background-image: url("images/SemTtulo-1.png");
+  background-size: cover;
   --radius: 50px;
 }
 
 .u-section-4 .u-container-layout-3 {
-  padding: 30px;
-}
-
-.u-section-4 .u-btn-1 {
-  margin: 9px auto 0;
-  padding: 10px 128px 10px 127px;
+  padding: 14px 21px;
 }
 
 .u-section-4 .u-btn-2 {
-  margin: -42px 26px 49px auto;
+  margin: 422px 0 -16px auto;
   padding: 10px 114px 10px 113px;
 }
 
@@ -689,15 +689,11 @@
   }
 
   .u-section-4 .u-image-2 {
-    min-height: 427px;
+    min-height: 430px;
   }
 
   .u-section-4 .u-image-3 {
     min-height: 430px;
-  }
-
-  .u-section-4 .u-btn-2 {
-    margin-right: 0;
   }
 }
 
@@ -721,7 +717,7 @@
   }
 
   .u-section-4 .u-image-2 {
-    min-height: 327px;
+    min-height: 329px;
   }
 
   .u-section-4 .u-image-3 {
@@ -735,7 +731,7 @@
 
 @media (max-width: 767px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 970px;
+    min-height: 910px;
   }
 
   .u-section-4 .u-container-layout-1 {
@@ -743,7 +739,7 @@
   }
 
   .u-section-4 .u-image-2 {
-    min-height: 736px;
+    min-height: 740px;
   }
 
   .u-section-4 .u-container-layout-2 {
@@ -756,7 +752,7 @@
   }
 
   .u-section-4 .u-container-layout-3 {
-    padding: 30px;
+    padding: 14px 30px;
   }
 }
 
@@ -771,7 +767,7 @@
   }
 
   .u-section-4 .u-image-2 {
-    min-height: 463px;
+    min-height: 466px;
   }
 
   .u-section-4 .u-image-3 {
